@@ -1,16 +1,14 @@
-### Hi there 👋
+# Leao Urbina
+👋 Hola, soy Leao Urbina. Tengo los 2 ultimos años aprendiendo Frontend. Estoy en busca de mi primer proyecto o trabajo en Frontend.
 
-<!--
-**leurjim/leurjim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+- 🔭 Actualmente en busca de proyectos y trabajos que hagan crecer como Frontend.
+- 🌱 Actualmente trabajando en el desarrollo de una Ecommerce de productos de ganado.
+-  ⚡Actualmente aprendiendo WordPress en https://egghead.io/
+- 🤔 Proximamente aprendiendo más referente a Gatsby.js y lenguajes de programación para Backend.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Herramientas que me gusta usar
+- [React](https://reactjs.org/)
+- [Mmdn](https://developer.mozilla.org/es/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [styled-components](https://styled-components.com/)
