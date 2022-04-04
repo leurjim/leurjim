@@ -2,7 +2,7 @@
 👋 Hola, soy Leao Urbina. Tengo los 2 ultimos años aprendiendo Frontend. Estoy en busca de mi primer proyecto o trabajo en Frontend.
 
 ## Acerca de mí
-- 🔭 Actualmente en busca de proyectos y trabajos que hagan crecer como Frontend.
+- 🔭 Actualmente en busca de proyectos y trabajos que me hagan crecer como Frontend.
 - 🌱 Actualmente trabajando en el desarrollo de una Ecommerce de productos de ganado.
 -  ⚡Actualmente aprendiendo WordPress en https://egghead.io/
 - 🤔 Proximamente aprendiendo más referente a Gatsby.js y lenguajes de programación para Backend.
